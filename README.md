@@ -46,8 +46,7 @@
 
 ## 📫 Connect with Me
 - 🌐 [Portfolio Website](#) *(coming soon)*  
-- 💼 [LinkedIn](#)  
-- 📧 [Your Email Address]  
+- 💼 [LinkedIn](https://www.linkedin.com/in/heman-subedi-26a40036a/)   
 
 ---
 
